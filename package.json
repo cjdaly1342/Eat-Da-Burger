@@ -1,0 +1,24 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "Eat-Da-Burger",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjdaly1342/burger.git"
+  },
+  "keywords": [
+    "burgers",
+    "eat"
+  ],
+  "author": "Chris Daly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjdaly1342/burger/issues"
+  },
+  "homepage": "https://github.com/cjdaly1342/burger#readme"
+}
